@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/zhizheng052.fast-ldoyxiu7-fork-ldp0dwgr",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve BxOhXbqH5vvQy095L17F --open"
+  },
+  "dependencies": {
+    "@microsoft/fast-element": "^1"
+  }
+}
